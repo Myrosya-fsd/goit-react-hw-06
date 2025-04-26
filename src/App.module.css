@@ -1,0 +1,10 @@
+.container {
+  padding: 100px;
+  font-family: sans-serif;
+  background-color: rgb(244, 247, 250);
+  min-height: 100vh;
+}
+
+.title {
+  margin-bottom: 20px;
+}
